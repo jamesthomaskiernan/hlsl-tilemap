@@ -1,0 +1,5 @@
+#define WINDOW_WIDTH 1080
+#define WINDOW_HEIGHT 1080
+#define PRINT_FPS_ENABLED true
+#define VSYNC_ENABLED true
+#define FULLSCREEN false
